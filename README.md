@@ -3,7 +3,8 @@ Algo homework 10
 
 ## Pulp example + Monte-Carlo method implementation
 
-2. monte_carlo.py -> implementation of Monte-Carlo algorithm
+1. pulp_calculation.py -> Example of using pulp to solve optimization problem
+2. monte_carlo.py -> Implementation of Monte-Carlo algorithm
 
 ## Monte-Carlo results
 Test on f(x) = x^3
